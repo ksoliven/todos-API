@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/todos-API/static/css/main.0fbefffc.chunk.css",
+    "main.js": "/todos-API/static/js/main.3ac5fb1e.chunk.js",
+    "main.js.map": "/todos-API/static/js/main.3ac5fb1e.chunk.js.map",
+    "runtime-main.js": "/todos-API/static/js/runtime-main.5705576f.js",
+    "runtime-main.js.map": "/todos-API/static/js/runtime-main.5705576f.js.map",
+    "static/js/2.c1b38d36.chunk.js": "/todos-API/static/js/2.c1b38d36.chunk.js",
+    "static/js/2.c1b38d36.chunk.js.map": "/todos-API/static/js/2.c1b38d36.chunk.js.map",
+    "index.html": "/todos-API/index.html",
+    "precache-manifest.1430654c16f0761aa60a6dce41cc1711.js": "/todos-API/precache-manifest.1430654c16f0761aa60a6dce41cc1711.js",
+    "service-worker.js": "/todos-API/service-worker.js",
+    "static/css/main.0fbefffc.chunk.css.map": "/todos-API/static/css/main.0fbefffc.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5705576f.js",
+    "static/js/2.c1b38d36.chunk.js",
+    "static/css/main.0fbefffc.chunk.css",
+    "static/js/main.3ac5fb1e.chunk.js"
+  ]
+}
